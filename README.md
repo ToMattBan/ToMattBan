@@ -42,11 +42,11 @@
 <br/>  
 
 <h1 align="center"></h1>
-<div allign="center">
-  <div valign="top" width="50%" style="display:flex">
+<div style="display:flex" >
+  <div width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
   </div>
-  <div valign="top" width="50%">
+  <div width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&hide_border=true&layout=compact" align="left" style="width: 100%" />
   </div>  
 </div>
