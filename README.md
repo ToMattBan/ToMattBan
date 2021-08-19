@@ -4,11 +4,11 @@
   <h1>Hello, I'm ToMatt \o/</h1>
 
   <div valign="top">
-    <p heigth="23px"> I'm a front-end developer, focused on 🌐 web pages and 📱 apps </p>
-    <p heigth="23px"> I'm from Santa Catarina, Brazil 🇧🇷 </p>
-    <p heigth="23px"> I'm actually developing my web skils reviwing 👨‍🦳 old concepts and learning 👶 new ones </p>
-    <p heigth="23px"> I'm planning to learn Flutter to make apps for Android and Linux 🐧 </p>
-    <p heigth="23px"> I make part of the RegataOs team, you can get more info <a href="http://www.regataos.com.br">here</a> </p>
+    <p height="23px"> I'm a front-end developer, focused on 🌐 web pages and 📱 apps </p>
+    <p height="23px"> I'm from Santa Catarina, Brazil 🇧🇷 </p>
+    <p height="23px"> I'm actually developing my web skils reviwing 👨‍🦳 old concepts and learning 👶 new ones </p>
+    <p height="23px"> I'm planning to learn Flutter to make apps for Android and Linux 🐧 </p>
+    <p height="23px"> I make part of the RegataOs <img height="20px" src="https://github.com/ToMattBan/ToMattBan/blob/42df78988a6bc09758e2f29d8d8f8eb2ff6a7f98/logo.png" /> team, you can get more info <a href="http://www.regataos.com.br">here</a> </p>
   </div>  
 
   <br/>  
