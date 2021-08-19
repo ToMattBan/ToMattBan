@@ -35,7 +35,7 @@
   <br/>
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&theme=vision-friendly-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&layout=compact&theme=vision-friendly-dark" />
-
+  <kbd><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&theme=material-palenight&bg_color=2c292d&hide_border=true" /></kbd>
+  <kbd><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&layout=compact&langs_count=6&theme=material-palenight&bg_color=2c292d&hide_border=true" /></kbd>
+  <kbd><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToMattBan&theme=monokai" /></kbd>
 </div>
