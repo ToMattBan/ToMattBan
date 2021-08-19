@@ -1,68 +1,41 @@
-  
+<div align="center">
+  <br/>  
 
-<br/>  
+  <h1>Hello, I'm ToMatt \o/</h1>
 
+  <div valign="top">
+    <p heigth="23px"> I'm a front-end developer, focused on 🌐 web pages and 📱 apps </p>
+    <p heigth="23px"> I'm from Santa Catarina, Brazil 🇧🇷 </p>
+    <p heigth="23px"> I'm actually developing my web skils reviwing 👨‍🦳 old concepts and learning 👶 new ones </p>
+    <p heigth="23px"> I'm actually learning Flutter to make apps for Android and Linux 🐧 </p>
+    <p heigth="23px"> I make part of the RegataOs team, you can get more info [here](http://www.regataos.com.br) </p>
+  </div>  
 
-<h1 align="center">Hello, I'm ToMatt \o/</h1>
-<div valign="top" align="center">
+  <br/>  
 
- I'm a front-end developer, focused on 🌐 web pages and 📱 apps  
-  
+  <img src="https://raw.githubusercontent.com/ToMattBan/ToMattBan/output/github-contribution-grid-snake.svg" />
 
- I'm from Santa Catarina, Brazil 🇧🇷  
-  
+  <h1>Languages and Tools</h1>
+  <div>  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+  </div>   
 
- I'm actually learning Flutter to make apps for Android and Linux 🐧  
-  
-
- I make part of the RegataOs team, you can get more info [here](http://www.regataos.com.br)  
-
-
-</div>  
-
-<br/>  
-
-<h1 align="center">Languages and Tools</h1>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-</div>   
-
-<br/>  
-
-<img src="https://raw.githubusercontent.com/ToMattBan/ToMattBan/output/github-contribution-grid-snake.svg" />
-
-<h1 align="center"></h1>
-<table><tr><td valign="top" halign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" align="center" style="width: 100%" />
-
-</td><td valign="top" halign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&hide_border=true&layout=compact&theme=vision-friendly-dark" align="center" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+  <br/>
 
 
-<br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&hide_border=true&layout=compact&theme=vision-friendly-dark" />
+
+</div>
