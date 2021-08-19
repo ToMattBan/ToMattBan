@@ -7,7 +7,7 @@
     <p heigth="23px"> I'm a front-end developer, focused on 🌐 web pages and 📱 apps </p>
     <p heigth="23px"> I'm from Santa Catarina, Brazil 🇧🇷 </p>
     <p heigth="23px"> I'm actually developing my web skils reviwing 👨‍🦳 old concepts and learning 👶 new ones </p>
-    <p heigth="23px"> I'm actually learning Flutter to make apps for Android and Linux 🐧 </p>
+    <p heigth="23px"> I'm planning to learn Flutter to make apps for Android and Linux 🐧 </p>
     <p heigth="23px"> I make part of the RegataOs team, you can get more info [here](http://www.regataos.com.br) </p>
   </div>  
 
