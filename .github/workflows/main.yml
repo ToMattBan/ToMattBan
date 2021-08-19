@@ -1,38 +1,53 @@
-name: generate animation
+name: Generate images Readme
 
 on:
-  # run automatically every day
-  schedule:
+  schedule: # run every 24 hours
     - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:    
-  
+
+  workflow_dispatch: # allows to manually run the job at any time
+
+  push: # run on every push on the branch
+    branches:
+    - main
 
 jobs:
-  generate:
+  generate: # Generate snake animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: assets/github-contribution-grid-snake.svg
 
-      # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push snake animation to the branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: output
+          target_branch: main
           build_dir: dist
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          target_branch: main
+        env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
 # CREDITS:
-# https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
+# Snake - https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L24-L29
+# Statistics - https://github.com/vn7n24fzkq/github-profile-summary-cards
