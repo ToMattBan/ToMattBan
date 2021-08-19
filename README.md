@@ -6,16 +6,16 @@
 <h1 align="center">Hello, I'm ToMatt \o/</h1>
 <div valign="top" align="center">
 
-- I'm a front-end developer, focused on 🌐 web pages and 📱 apps  
+ I'm a front-end developer, focused on 🌐 web pages and 📱 apps  
   
 
-- I'm from Santa Catarina, Brazil 🇧🇷  
+ I'm from Santa Catarina, Brazil 🇧🇷  
   
 
-- I'm actually learning Flutter to make apps for Android and Linux 🐧  
+ I'm actually learning Flutter to make apps for Android and Linux 🐧  
   
 
-- I make part of the RegataOs team, you can get more info [here](http://www.regataos.com.br)  
+ I make part of the RegataOs team, you can get more info [here](http://www.regataos.com.br)  
 
 
 </div>  
