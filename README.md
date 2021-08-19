@@ -35,12 +35,12 @@
   <br/>
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&theme=material-palenight&bg_color=2c292d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&layout=compact&langs_count=6&theme=material-palenight&bg_color=2c292d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomattban&show_icons=true&count_private=true&theme=material-palenight&bg_color=2c292d&cache_seconds=3600" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomattban&layout=compact&langs_count=6&theme=material-palenight&bg_color=2c292d&cache_seconds=3600" />
   <kbd><img height="180em" src="https://raw.githubusercontent.com/ToMattBan/ToMattBan/main/profile-summary-card-output/monokai/0-profile-details.svg" /></kbd>
 
   <h1>Demos ans Lives</h1>
   <p>You can find various demos and lives in this repository:</p>
-  <a href="https://github.com/ToMattBan/Just_Links_Live"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ToMattBan&repo=Just_Links_Live&theme=material-palenight" /></a>
+  <a href="https://github.com/ToMattBan/Just_Links_Live"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ToMattBan&repo=Just_Links_Live&theme=material-palenight&cache_seconds=3600" /></a>
   
 </div>
