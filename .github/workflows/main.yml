@@ -6,10 +6,6 @@ on:
 
   workflow_dispatch: # allows to manually run the job at any time
 
-  push: # run on every push on the branch
-    branches:
-    - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -27,7 +23,7 @@ jobs:
       - name: push snake animation to the branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: main
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
