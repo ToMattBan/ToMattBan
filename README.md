@@ -41,6 +41,6 @@
 
   <h1>Demos ans Lives</h1>
   <p>You can find various demos and lives in this repository:</p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ToMattBan&repo=Just_Links_Live&theme=material-palenight" />
+  <a href="https://github.com/ToMattBan/Just_Links_Live"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ToMattBan&repo=Just_Links_Live&theme=material-palenight" /></a>
   
 </div>
