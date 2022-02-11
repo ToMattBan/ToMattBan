@@ -4,15 +4,15 @@
             <style>
                 @keyframes gradientBackground {
                     0% {
-                        background-position: 0 50%
+                        background-position: 0% 50%;
                     }
 
                     50% {
-                        background-position: 100% 50%
+                        background-position: 100% 50%;
                     }
 
                     100% {
-                        background-position: 0 50%
+                        background-position: 0% 50%;
                     }
                 }
 
@@ -26,27 +26,27 @@
                     background-size: 600% 400%;
                     animation: gradientBackground 10s ease infinite;
                     border-radius: 10px;
-                    color: white
+                    color: white;
                 }
 
                 .wrapper {
                     display: flex;
                     align-items: center;
-                    justify-content: center
+                    justify-content: center;
                 }
 
                 .typing-demo {
                     width: 21ch;
-                    animation: typing 4s steps(21) infinite, blink 0.3s step-end infinite alternate;
+                    animation: typing 4s steps(21) infinite, blink .3s step-end infinite alternate;
                     white-space: nowrap;
                     overflow: hidden;
                     border-right: 3px solid;
                     font-family: monospace;
-                    font-size: 2em
+                    font-size: 2em;
                 }
 
                 .typing-demo b {
-                    text-decoration: underline
+                    text-decoration: underline;
                 }
 
                 @keyframes typing {
@@ -77,10 +77,11 @@
                     }
                 }
             </style>
-
             <div class="container">
                 <div class="wrapper">
-                    <div class="typing-demo">Saluton! I'm <b>ToMatt</b>.</div>
+                    <div class="typing-demo">
+                        Saluton! I'm <b>ToMatt</b>.
+                    </div>
                 </div>
             </div>
         </div>
