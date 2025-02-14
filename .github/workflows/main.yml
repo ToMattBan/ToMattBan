@@ -15,10 +15,12 @@ jobs:
     steps:
       # Generates a snake game from a user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate snake animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: push snake animation to the branch
