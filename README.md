@@ -5,9 +5,9 @@
 
   <div valign="top">
     <p height="23px"> I'm a front-end developer, focused on 🌐 web pages and 📱 apps </p>
-    <p height="23px"> I'm from Santa Catarina, Brazil 🇧🇷 </p>
-    <p height="23px"> I'm actually studing Node, MongoDB and NuxtJS</p>
-    <p height="23px"> I was part of the RegataOs <img height="20px" src="https://github.com/ToMattBan/ToMattBan/blob/42df78988a6bc09758e2f29d8d8f8eb2ff6a7f98/logo.png" /> team, you can get more info <a href="http://www.regataos.com.br">here</a> </p>
+    <p height="23px"> Brazilian 🇧🇷 </p>
+    <p height="23px"> I'm focused on Vue, but Node, React and other tools are wellcome</p>
+    <p height="23px"> I'm part of the RegataOs <img height="20px" src="https://github.com/ToMattBan/ToMattBan/blob/42df78988a6bc09758e2f29d8d8f8eb2ff6a7f98/logo.png" /> team, you can get more info <a href="http://www.regataos.com.br">here</a> </p>
   </div>
 
   <br />
